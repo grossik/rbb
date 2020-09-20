@@ -2,19 +2,19 @@
 	"1.16.3": {
 		"2": {
 			"version_id": 2,
-			"version": 0.2,
+			"version": "0.2",
 			"changelog": "Test update"
 		},
 		"1": {
 			"version_id": 1,
-			"version": 0.1,
+			"version": "0.1",
 			"changelog": "First 1.16.3 update"
 		}
 	},
 	"1.16.2": {
 		"1": {
 			"version_id": 1,
-			"version": 0.1,
+			"version": "0.1",
 			"changelog": "First 1.16.2 update"
 		}
 	}
