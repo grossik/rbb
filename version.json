@@ -4,13 +4,19 @@
 			"version_id": 2,
 			"version": "0.2",
 			"type": "Alpha",
-			"changelog": "Test update 1\nVíce řádků pro test 2\nVíce řádků pro testsdsa dsaDsa dsad sad sad sadsa 3\nVíce řádků pro test 4\nVíce řádků pro test 5\nVíce řádků pro test 6\nVíce řádků pro test 7\nVíce řádků pro test 8\nVíce řádků pro test 9\nVíce řádků pro test 10\nVíce řádků pro test 11\nVíce řádků pro test 12\nVíce řádků pro test 13\nVíce řádků pro test 14\nVíce řádků pro test 15\nVíce řádků pro test 16\nVíce řádků pro test 17\nVíce řádků pro test 18\nVíce řádků pro test 19\nVíce řádků pro test 20\nVíce řádků pro test 21\nVíce řádků pro test 22\nVíce řádků pro test 23\nVíce řádků pro test 24\nVíce řádků pro test 25\nVíce řádků pro test 26\nVíce řádků pro test 27"
+			"changelog": "Přidán manuál pro vysvětlení funkčnosti a používání tohoto modu\nOprava drobných chyb a vylepšení stability\nPřidán nový stroj s názvem Heat Exchanger\nNové textury"
 		},
 		"1": {
 			"version_id": 1,
 			"version": "0.1",
 			"type": "Alpha",
 			"changelog": "First 1.16.3 update"
+		},
+		"1": {
+			"version_id": 0,
+			"version": "0.0",
+			"type": "Alpha",
+			"changelog": "Test version"
 		}
 	},
 	"1.16.2": {
